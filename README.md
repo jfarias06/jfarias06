@@ -7,8 +7,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,py,express,js" />
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,godot,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,py,express,js,c,bash"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,docker,vscode,godot," />
 </p>
 
 <hr>
